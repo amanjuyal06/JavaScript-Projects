@@ -1,0 +1,26 @@
+/* Styling for timer buttons */
+.timerBtn {
+    width: 80px;
+    height: 30px;
+    border: 3px solid white;
+    border-radius: 12px;
+    background-color: hsl(0, 0%, 20%); /* Dark background color using HSL values */
+    color: white;
+    cursor: pointer;
+    font-family: consolas, monospace; /* Font family for the button text */
+}
+
+/* Styling for the displayed time */
+#timeDisplay {
+    font-size: 75px;
+    color: #03adfc; /* Blue color for the time display */
+    font-family: consolas, monospace; /* Font family for the displayed time */
+}
+
+/* Styling for the container holding the timer and buttons */
+#myContainer {
+    text-align: center; /* Center-align text and elements inside the container */
+    border: 3px solid;
+    border-radius: 25px;
+    background-color: #222222; /* Dark background color for the container */
+}
