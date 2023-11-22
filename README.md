@@ -30,8 +30,3 @@ This is a simple clock program written in HTML, CSS, and JavaScript. It allows u
 ## Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
